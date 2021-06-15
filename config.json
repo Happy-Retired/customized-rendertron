@@ -2,7 +2,7 @@
     "cache": "memory",
     "timeout":9999,
     "cacheConfig": {
-        "cacheDurationMinutes": 120,
-        "cacheMaxEntries": 100
+        "cacheDurationMinutes": -1,
+        "cacheMaxEntries": -1
     }
 }
