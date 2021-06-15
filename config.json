@@ -1,5 +1,6 @@
 {
     "cache": "memory",
+    "timeout":4500,
     "cacheConfig": {
         "cacheDurationMinutes": 120,
         "cacheMaxEntries": 100
